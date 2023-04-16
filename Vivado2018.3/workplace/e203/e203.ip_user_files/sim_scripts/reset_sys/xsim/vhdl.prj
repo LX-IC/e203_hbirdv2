@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../e203.srcs/sources_1/ip/reset_sys/sim/reset_sys.vhd" \
+
+nosort
